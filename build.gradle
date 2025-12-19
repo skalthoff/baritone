@@ -90,7 +90,7 @@ allprojects {
         mappings {
             intermediary()
             mojmap()
-            parchment("2023.06.26")
+            parchment("2024.06.16", "1.21")
         }
     }
 
